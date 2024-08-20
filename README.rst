@@ -1,4 +1,4 @@
-Quantdom
+Pravaah based on Quantdom
 ========
 
 .. image:: https://img.shields.io/pypi/v/quantdom.svg?style=flat-square
